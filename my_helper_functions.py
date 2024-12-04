@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Aug  8 20:18:15 2017
 
-@author: Tichakunda Mangono
-"""
 
 # In the future, consider the following..
 # Class for datetimes already exists
